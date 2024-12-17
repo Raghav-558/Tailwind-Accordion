@@ -12,7 +12,7 @@ export const FAQ_LIST = [
         description: 'Let customers discover your content using AI-generated questions and answers'
     },
     {
-        title: 'Accordion Heading #Four',
+        title: 'Accordion Heading #four',
         description: 'Let customers discover your content using AI-generated questions and answers'
     }
 ]
